@@ -1,13 +1,13 @@
 {
-  "name": "@x-hooks/doc",
-  "version": "1.0.1",
+  "name": "x-hooks-doc",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@x-hooks/main": "^1.0.1"
+    "x-hooks-main": "^1.0.0"
   },
   "author": "chase chen <596487930@qq.com> (https://github.com/ccj-007)",
   "license": "MIT"
