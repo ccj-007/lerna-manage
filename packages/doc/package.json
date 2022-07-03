@@ -1,19 +1,14 @@
 {
-  "name": "@ccj/x-hooks-doc",
-  "version": "1.0.1",
+  "name": "@x-hooks/doc",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@ccj/x-hooks": "^1.0.1",
-    "axios": "^0.27.2"
+    "@x-hooks/main": "^1.0.0"
   },
-  "publishConfig": {
-    "access": "public"
-  },
-  "author": "",
-  "license": "ISC",
-  "gitHead": "ae8efd5c913eb22b4afdcddc17df072e2a8aad25"
+  "author": "chase chen <596487930@qq.com> (https://github.com/ccj-007)",
+  "license": "MIT"
 }
