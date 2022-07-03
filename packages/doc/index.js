@@ -1,4 +1,4 @@
-const { API } = require('@ccj/xhooks');
+const { API } = require('@ccj/x-hooks');
 const axios = require('axios');
 
 const getPopularImg = () => axios.get(API)

@@ -1,5 +1,5 @@
 {
-  "name": "@ccj/xhooks",
+  "name": "@ccj/x-hooks",
   "version": "1.0.1",
   "description": "",
   "main": "index.js",
@@ -11,5 +11,5 @@
   },
   "author": "",
   "license": "ISC",
-  "gitHead": "c089ff2473cb6bbca1f09bf9090948db79c8cd50"
+  "gitHead": "29c40a5425b16586674eb06f21f47df072fd6023"
 }

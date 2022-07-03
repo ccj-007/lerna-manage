@@ -1,5 +1,5 @@
 {
-  "name": "@ccj/xhooks-doc",
+  "name": "@ccj/x-hooks-doc",
   "version": "1.0.1",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@ccj/xhooks": "^1.0.5",
+    "@ccj/x-hooks": "^1.0.5",
     "axios": "^0.27.2"
   },
   "publishConfig": {
@@ -15,5 +15,5 @@
   },
   "author": "",
   "license": "ISC",
-  "gitHead": "3652a745a2696d52e0b4399246030e7c1dd7633f"
+  "gitHead": "29c40a5425b16586674eb06f21f47df072fd6023"
 }
