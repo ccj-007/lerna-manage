@@ -10,5 +10,6 @@
     "x-hooks-main": "^1.0.1"
   },
   "author": "chase chen <596487930@qq.com> (https://github.com/ccj-007)",
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "57f69f6868136b0dd564f658ba0a427533356d95"
 }
