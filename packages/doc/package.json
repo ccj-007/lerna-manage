@@ -1,6 +1,6 @@
 {
-  "name": "x-hooks-doc",
-  "version": "1.0.5",
+  "name": "@ccj/xhooks-doc",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,9 +8,12 @@
   },
   "dependencies": {
     "axios": "^0.27.2",
-    "x-hooks": "^1.0.5"
+    "@ccj/xhooks": "^1.0.5"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "author": "",
   "license": "ISC",
-  "gitHead": "392f29fd72a41937b65facfdeadf44d53220b10d"
+  "gitHead": "3652a745a2696d52e0b4399246030e7c1dd7633f"
 }

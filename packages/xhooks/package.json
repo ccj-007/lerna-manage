@@ -1,12 +1,15 @@
 {
-  "name": "x-hooks",
-  "version": "1.0.5",
+  "name": "@ccj/xhooks",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "author": "",
   "license": "ISC",
-  "gitHead": "392f29fd72a41937b65facfdeadf44d53220b10d"
+  "gitHead": "c089ff2473cb6bbca1f09bf9090948db79c8cd50"
 }
