@@ -8,12 +8,9 @@
   },
   "dependencies": {
     "axios": "^0.27.2",
-    "xhooks": "^1.0.1"
-  },
-  "publishConfig": {
-    "access": "public"
+    "x-hooks": "^1.0.1"
   },
   "author": "",
   "license": "ISC",
-  "gitHead": "c87e239451dcefa7883012cb77e9e6b24ee7b578"
+  "gitHead": "d5104bb26d43d97bea674ca28b8e706dc343887d"
 }
