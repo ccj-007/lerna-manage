@@ -1,14 +1,14 @@
 {
   "name": "@ccj/xhooks-doc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "axios": "^0.27.2",
-    "@ccj/xhooks": "^1.0.5"
+    "@ccj/xhooks": "^1.0.5",
+    "axios": "^0.27.2"
   },
   "publishConfig": {
     "access": "public"
