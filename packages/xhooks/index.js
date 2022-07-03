@@ -1,4 +1,4 @@
-const API = 'https://yande.re/post/popular_recent.json';
+let API = 'https://yande.re/post/popular_recent.json';
 
 
 module.exports = {

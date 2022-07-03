@@ -1,6 +1,6 @@
 {
   "name": "@ccj/x-hooks",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,5 @@
   },
   "author": "",
   "license": "ISC",
-  "gitHead": "29c40a5425b16586674eb06f21f47df072fd6023"
+  "gitHead": "ae8efd5c913eb22b4afdcddc17df072e2a8aad25"
 }
