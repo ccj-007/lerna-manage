@@ -10,6 +10,9 @@
     "axios": "^0.27.2",
     "xhooks": "^1.0.0"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "author": "",
   "license": "ISC"
 }
